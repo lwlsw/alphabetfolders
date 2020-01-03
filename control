@@ -1,0 +1,9 @@
+Package: com.burritoz.alphabetfolders
+Name: AlphabetFolders
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Sort your folders alphabetically after each respring! OCD no more!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
